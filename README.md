@@ -1,1 +1,1 @@
-# Chrome-DarkMode-extenstion
+# Chrome-DarkMode-extenstion (DEMO)
